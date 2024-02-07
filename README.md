@@ -4,7 +4,7 @@ Tenho conhecimento nessas linguagens:
 .HTML
 .CSS
 .JAVASCRIPT  
-.GIT
-.GITHUB 
+.React
+.Node
 
 
